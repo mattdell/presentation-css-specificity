@@ -1,0 +1,9 @@
+.PageName { ... }
+
+.PageName__foo { ... }
+
+.PageName__foo--left { ... }
+
+.PageName__bar { ... }
+
+.PageName__bar--right { ... }

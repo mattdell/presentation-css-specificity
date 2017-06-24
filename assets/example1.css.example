@@ -1,0 +1,21 @@
+p {
+	color: orange;
+}
+
+.bar {
+	color: pink;
+}
+
+#bar {
+	color: green;
+}
+
+.foo .bar {
+	color: red;
+}
+
+div p {
+	color: yellow;
+}
+
+.

@@ -1,0 +1,21 @@
+p {
+	color: orange;
+}
+
+.bar {
+	color: pink;
+}
+
+div p {
+	color: yellow;
+}
+
+
+
+
+
+
+
+
+
+.

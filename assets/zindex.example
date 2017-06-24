@@ -1,0 +1,10 @@
+// Z-Index (Z-Index should be kept low and incremental, don't exceed 10)
+$z-index-life-planner-video: 0;
+$z-index-overlay: 1;
+$z-index-step-progress-bar: 2;
+$z-index-header-alert-message: 3;
+$z-index-header: 4;
+$z-index-modal-backdrop: 5;
+$z-index-modal: 6;
+$z-index-glass-wall: 7;
+$z-index-loading-dots: 10;
